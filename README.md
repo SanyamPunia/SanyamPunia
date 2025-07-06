@@ -2,7 +2,7 @@
 
 ### Hi there, I'm Sanyam Punia 👋
 
-- 🔭 I’m currently working on my startup [Flib](https://flib.store/) & [dineleap.](https://dineleap.com)
+- 🔭 I’m currently working on my startup [Flib](https://flib.store/)
 - 🌱 I’m currently learning Next.js, tRPC
 - 📫 You can reach me at my mail: lewarends@gmail.com
 - 📑 I also write technical articles on medium. Check them out [here]
