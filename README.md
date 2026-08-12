@@ -1,5 +1,3 @@
-### sanyam punia
-
 i'm a full-stack developer based in india. simplicity is what makes an interface good, and clean design with efficient code behind it is where the difference actually shows up.
   
 right now i'm a frontend engineer at oliv ai, building ai-powered sales intelligence. before this i built a real-time trading terminal at enclave, and led engineering as founding engineer at bitscale.
